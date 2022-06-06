@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "624854352af2f4184c02901c"
+  },
+  "Name": "pepsi 0",
+  "Price": 18.5,
+  "Quality": 1,
+  "Quantity": 800,
+  "Vendor": "Pepsi",
+  "Category": "Drink"
+},{
+  "_id": {
+    "$oid": "624855ec2af2f4184c02901d"
+  },
+  "Name": "fanta orange",
+  "Price": 20,
+  "Quality": 2,
+  "Quantity": 500,
+  "Vendor": "Coca Cola",
+  "Category": "Drink"
+},{
+  "_id": {
+    "$oid": "624856332af2f4184c02901e"
+  },
+  "Name": "KitKat",
+  "Price": 12.3,
+  "Quality": 5,
+  "Quantity": 1600,
+  "Vendor": "Nestle",
+  "Category": "Chocolate"
+},{
+  "_id": {
+    "$oid": "624856d12af2f4184c029021"
+  },
+  "Name": "Milka",
+  "Price": 25,
+  "Quality": 5,
+  "Quantity": 744,
+  "Vendor": "Mondelēz International",
+  "Category": "Chocolate"
+},{
+  "_id": {
+    "$oid": "624857792af2f4184c029022"
+  },
+  "Name": "Mivina",
+  "Price": 28,
+  "Quality": 3,
+  "Quantity": 33333,
+  "Vendor": "Nestle",
+  "Category": "Fast breakfasts"
+},{
+  "_id": {
+    "$oid": "624858a22af2f4184c029023"
+  },
+  "Name": "SamYang",
+  "Price": 141,
+  "Quality": 0,
+  "Quantity": 0,
+  "Vendor": "SamYang",
+  "Category": "Fast breakfasts"
+},{
+  "_id": {
+    "$oid": "6248595f2af2f4184c029024"
+  },
+  "Name": "Bond ",
+  "Price": 43,
+  "Quality": 1,
+  "Quantity": 100,
+  "Vendor": "Bond ",
+  "Category": "Сigarettes"
+},{
+  "_id": {
+    "$oid": "62485a462af2f4184c029025"
+  },
+  "Name": "Winston Blue",
+  "Price": 70,
+  "Quality": 1,
+  "Quantity": 160,
+  "Vendor": "Winston",
+  "Category": "Сigarettes"
+}]
